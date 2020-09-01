@@ -32,7 +32,7 @@ p{
 #navbar a{
     color:white;
 }
-#navbar h1{
+#navbar #logo{
     float: left;
     padding:20px;
 }
@@ -80,13 +80,13 @@ p{
 }
 .show-content p{
     padding-bottom: 25px;
-    line-height: ;
+    line-height: 1.7em;
 }
 
 
 /* home-info */
 #home-info{
-height: 400px;
+height: 450px;
 }
 #home-info .info-img{
 float:left;
